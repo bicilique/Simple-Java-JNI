@@ -6,12 +6,14 @@ target/
 HELP.md
 tmp/
 target/
-!**/src/main/**
-!**/src/test/**
+**/src/main/**
+**/src/test/**
 src/main/resources/application.properties
 
 # Ignore src/main directory
 src/main/
+
+pom.xml
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
