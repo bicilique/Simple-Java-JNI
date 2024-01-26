@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+HELP.md
+tmp/
+target/
+!**/src/main/**
+!**/src/test/**
+src/main/resources/application.properties

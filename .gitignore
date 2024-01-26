@@ -3,6 +3,13 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+HELP.md
+tmp/
+target/
+!**/src/main/**
+!**/src/test/**
+src/main/resources/application.properties
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
